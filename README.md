@@ -2,7 +2,18 @@ This is a direct implementation of Igarashi's Siggraph 05 paper[1]. Just to unde
 
 The libraries I used in this code include: (1) Jonathan Richard Shewchuk's Triangle[3], the code is contained in my source code; (2) Freeglut library [4]; and (3) Eigen [5]. If you want to use this code, please download these library accordingly.
 
-Operations: Left click - add mesh vertices "A" or "a" - build mesh Right click - add control points Left drag - mesh deformation "C" or "c" - clear the mesh "V" or "v" - clear the control points
+Operations: 
+Left click - add mesh vertices 
+
+"A" or "a" - build mesh 
+
+Right click - add control points 
+
+Left drag - mesh deformation 
+
+"C" or "c" - clear the mesh 
+
+"V" or "v" - clear the control points
 
 If you want to know how to implement the whole paper, please refer to Ryan Schmidt's implementation [2].
 
