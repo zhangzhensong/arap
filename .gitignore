@@ -1,0 +1,9 @@
+*.exe
+*.sdf
+*.opensdf
+*/Debug/*
+*/Release/*
+*.tlog
+*.idb
+*/Test/*
+*/x64/*
